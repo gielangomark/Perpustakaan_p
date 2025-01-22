@@ -1,0 +1,7 @@
+{
+    "name": "perpustakaan/perpustakaan_2",
+    "description": "Proyek Perpustakaan",
+    "require": {
+        "tecnickcom/tcpdf": "^6.8"
+    }
+}
